@@ -1,2 +1,2 @@
 # ubuntuimmutable
-Sript para agregar Veeam repositorio inmutable en Ubuntu
+Script para agregar Veeam repositorio inmutable en Ubuntu
